@@ -1,0 +1,3 @@
+[master 4a9d4ee] mirror permission
+ 1 file changed, 2 insertions(+)
+ mode change 100644 => 100755 0x01-shell_permissions/10-mirror_permissions
